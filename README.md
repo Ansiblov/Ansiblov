@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmitriy!
+# 👋👋👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Future+SRE+Engineer;Learning+%7C+Building+%7C+Automating" alt="Typing SVG" />
